@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="My Custom Table">5bbb56d907b100102955f9fc7c1ed01c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>My Custom Tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_436948_needit_my_custom_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_436948_needit.my_custom_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 19:21:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fbb56d907b100102955f9fc7c1ed020</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_436948_needit">90d49ad107b100102955f9fc7c1ed085</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">90d49ad107b100102955f9fc7c1ed085</sys_scope>
+        <sys_update_name>sys_app_module_1fbb56d907b100102955f9fc7c1ed020</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 19:21:10</sys_updated_on>
+        <timeline_page/>
+        <title>My Custom Tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">90d49ad107b100102955f9fc7c1ed085</application>
+        <file_path/>
+        <instance_id>51f336384f599a809211220f0310c774</instance_id>
+        <instance_name>dev18261</instance_name>
+        <name>sys_app_module_1fbb56d907b100102955f9fc7c1ed020</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="My Custom Table">5bbb56d907b100102955f9fc7c1ed01c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>My Custom Tables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_436948_needit_my_custom_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_436948_needit.my_custom_table_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-17 19:21:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1fbb56d907b100102955f9fc7c1ed020</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Custom Tables</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_436948_needit">90d49ad107b100102955f9fc7c1ed085</sys_package><sys_policy/><sys_scope display_value="NeedIt">90d49ad107b100102955f9fc7c1ed085</sys_scope><sys_update_name>sys_app_module_1fbb56d907b100102955f9fc7c1ed020</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-17 19:21:10</sys_updated_on><timeline_page/><title>My Custom Tables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1472647525</payload_hash>
+        <record_name>My Custom Tables</record_name>
+        <reverted_from/>
+        <source>e4d7d69507b100102955f9fc7c1ed049</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 19:21:10</sys_created_on>
+        <sys_id>d3bb56d907b100102955f9fc7c1ed024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f154e9bbd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 19:21:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1fbb56d96eb1001006ebbea582ead623</update_guid>
+        <update_guid_history>1fbb56d96eb1001006ebbea582ead623:1472647525</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Custom Tables">4f612a1107f100102955f9fc7c1ed032</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 19:45:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>b4715760516b4f019b95e3e8ef167131</sys_id>
+        <sys_metadata>1fbb56d907b100102955f9fc7c1ed020</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Tables</sys_name>
+        <sys_package display_value="NeedIt" source="x_436948_needit">90d49ad107b100102955f9fc7c1ed085</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">90d49ad107b100102955f9fc7c1ed085</sys_scope>
+        <sys_scope_delete display_value="">271937a784c74cec8db4c6cccb441f39</sys_scope_delete>
+        <sys_update_name>sys_app_module_1fbb56d907b100102955f9fc7c1ed020</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1fbb56d907b100102955f9fc7c1ed020">d3bb56d907b100102955f9fc7c1ed024</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 19:45:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
